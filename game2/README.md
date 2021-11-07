@@ -3,7 +3,7 @@ In this game, we match pairs. Match the couple of tiles and testing your memory.
 
 # Screenshots
 
-<img src="/screenshot/1.png" width="225"/> <img src="/screenshot/2.png" width="225"/> <img src="/screenshot/3.png" width="225"/><img src="/screenshot/4.png" width="225"/>
+<img src="/screenshot/1.jpg" width="225"/> <img src="/screenshot/2.png" width="225"/> <img src="/screenshot/3.png" width="225"/><img src="/screenshot/4.png" width="225"/>
 
 # How to build?
 1. Open Android Studio
